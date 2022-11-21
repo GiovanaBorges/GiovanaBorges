@@ -9,6 +9,9 @@
  I'm FullStack developer.
 
 I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
+<p align="center">
+<img src="https://wallpapercave.com/dwp2x/wp2203700.png" alt="Walpaper blade runner 2049" border="0">
+</p>
 <br>
 <h3>Portifolio https://giovanaborges.netlify.app</h3>
 
