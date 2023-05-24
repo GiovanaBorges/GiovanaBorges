@@ -8,9 +8,9 @@
 
  I'm FullStack developer.
 
-I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
+I do projects in Spring and React JS ,learning about AWS cloud and looking for reach another level of code quality to offer the best always!                 
 <p align="center">
-<img src="https://wallpapercave.com/dwp2x/wp2203700.png" alt="Walpaper blade runner 2049" border="0">
+<img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" alt="Walpaper blade runner 2049" border="0">
 </p>
 <br>
 <h3>Portifolio https://giovanaborges.netlify.app</h3>
@@ -69,5 +69,4 @@ Well... I'm a technology enthusiast and I believe that only technology will make
 ### Giovana Borges on social media:
 
 <a href="https://www.linkedin.com/in/giovana-franco-borges/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/giovana-franco-borges/" height="50" width="50" color="white" /></a>
-  <a href="https://www.behance.net/giovana_borges" height="50" width="50" target="blank"><h1>Behance</h1></a>
 <br>
