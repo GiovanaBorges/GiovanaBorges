@@ -8,7 +8,7 @@
 
  I'm FullStack developer.
 
-I do projects in Spring and React JS ,learning about AWS cloud and looking for reach another level of code quality to offer the best always!                 
+I do projects in Spring and Node JS ,learning about AWS cloud and looking for reach another level of code quality to offer the best always!                 
 <p align="center">
 <img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" alt="Walpaper blade runner 2049" border="0">
 </p>
