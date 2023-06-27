@@ -6,9 +6,9 @@
 
 ### About me:
 
- I'm FullStack developer.
+ I'm Backend developer.
 
-I do projects in Spring and Node JS ,learning about AWS cloud and looking for reach another level of code quality to offer the best always!                 
+I do projects in Spring ,learning about AWS cloud , Golang and looking for reach another level of code quality to offer the best always!                 
 <p align="center">
 <img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" alt="Walpaper blade runner 2049" border="0">
 </p>
@@ -51,7 +51,6 @@ Well... I'm a technology enthusiast and I believe that only technology will make
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-springBoot-05122A?style=for-the-badge&logo=spring)&nbsp;
-![reactJS](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 
   <br>
