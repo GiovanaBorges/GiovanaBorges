@@ -2,40 +2,16 @@
 
 ### 👩‍💻 About me
 
-I’m a **Backend Developer** passionate about building scalable and clean systems using **Java + Spring Boot**, **AWS Cloud**, and modern development practices.  
+I’m a **Backend Developer** passionate about creating clean, scalable and reliable systems using **Java + Spring Boot**, **AWS Cloud**, and modern engineering practices.  
 
-Currently focused on mastering **code quality**, **testing**, and **cloud-ready backend architectures** to deliver reliable and efficient solutions.
-
-<p align="center">
-<img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" alt="Blade Runner 2049 wallpaper" border="0">
-</p>
-
-### 💼 Portfolio  
-➡️ [https://giovanaborges.netlify.app](https://giovanaborges.netlify.app)
+I believe in writing code that tells a story — one of clarity, consistency, and purpose.  
+Right now, my focus is on mastering **software quality**, **testing**, and **cloud-ready architectures** to deliver robust, production-level applications.
 
 ---
 
-### 🧠 What defines me until now
-- Focus  
-- Leadership  
-- Proactivity  
-- Communication  
-- Constancy  
-- Persistence  
-- Learn to learn  
+### ⚙️ Tech Stack
 
----
-
-### 🧩 Main Soft Skills
-![Resiliência](https://img.shields.io/badge/-Resiliência-05122C?style=for-the-badge)&nbsp;
-![Flexibilidade](https://img.shields.io/badge/-Flexibilidade-05122C?style=for-the-badge)&nbsp;
-![Comunicação](https://img.shields.io/badge/-Comunicação-05122C?style=for-the-badge)&nbsp;
-
----
-
-### ⚙️ Tech Stack & Tools
-
-#### 🏗️ Core Backend
+#### 🧩 Core Backend
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=for-the-badge&logo=springboot)&nbsp;
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=for-the-badge&logo=springsecurity)&nbsp;
@@ -67,24 +43,40 @@ Currently focused on mastering **code quality**, **testing**, and **cloud-ready 
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=for-the-badge&logo=prometheus)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=for-the-badge&logo=grafana)&nbsp;
 
-#### 🧰 Productivity
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode)&nbsp;
+#### 🧰 Productivity & Organization
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello)&nbsp;
 
 ---
 
-### 🚀 What I’m Building Towards
-I’m currently focused on:
-- Delivering **cloud-ready backend architectures** using Spring Boot + AWS  
-- Improving **CI/CD pipelines** for automated build, test, and deploy  
-- Applying **clean architecture** and **domain-driven design**  
-- Enhancing **testing strategies** (unit, integration, container-based)  
-- Strengthening **observability** and **API documentation**  
+### 🧠 What defines me
+
+- Focus  
+- Leadership  
+- Proactivity  
+- Communication  
+- Constancy  
+- Persistence  
+- Learn to learn  
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Portfolio  
+🎯 [https://giovanaborges.netlify.app](https://giovanaborges.netlify.app)
+
+---
+
+### 🚀 Currently focused on
+- Building **cloud-ready backends** with Spring Boot + AWS  
+- Creating **CI/CD pipelines** to automate build, testing, and deploy  
+- Applying **clean architecture** and **domain-driven design**  
+- Strengthening **testing strategies** (unit, integration, container-based)  
+- Enhancing **API documentation** and **observability**  
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=GiovanaBorges&show_icons=true&theme=radical" />
@@ -93,7 +85,8 @@ I’m currently focused on:
 
 ---
 
-### 🌍 Connect with me
+### 🌍 Let’s connect!
+
 <a href="https://www.linkedin.com/in/giovana-franco-borges/" target="_blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="50" width="50" />
 </a>
