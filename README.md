@@ -1,71 +1,104 @@
-                   
-    
-                         
-             
- ## Hi! I´m Giovana Borges 
+## Hi! I’m Giovana Borges ☕  
 
-### About me:
+### 👩‍💻 About me
 
- I'm Backend developer.
+I’m a **Backend Developer** passionate about building scalable and clean systems using **Java + Spring Boot**, **AWS Cloud**, and modern development practices.  
 
-I do projects in Spring ,learning about AWS cloud , Golang and looking for reach another level of code quality to offer the best always!                 
+Currently focused on mastering **code quality**, **testing**, and **cloud-ready backend architectures** to deliver reliable and efficient solutions.
+
 <p align="center">
-<img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" alt="Walpaper blade runner 2049" border="0">
+<img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" alt="Blade Runner 2049 wallpaper" border="0">
 </p>
-<br>
-<h3>Portifolio https://giovanaborges.netlify.app</h3>
 
- <br>
-What defines me until this moment?
+### 💼 Portfolio  
+➡️ [https://giovanaborges.netlify.app](https://giovanaborges.netlify.app)
 
-◉ Focus
-◉ Leadership
-◉ Proactivity
-◉ Communication
-◉ constancy
-◉ Persistence
-◉ learn to learn
+---
 
+### 🧠 What defines me until now
+- Focus  
+- Leadership  
+- Proactivity  
+- Communication  
+- Constancy  
+- Persistence  
+- Learn to learn  
 
-  <br>
-  
-  ### Main Soft Skills:
+---
 
-![Resiliência](https://img.shields.io/badge/-Resiliência-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
-![Flexibilidade](https://img.shields.io/badge/-flexibilidade-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
-![Comunicação](https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
-        
-### Tools
+### 🧩 Main Soft Skills
+![Resiliência](https://img.shields.io/badge/-Resiliência-05122C?style=for-the-badge)&nbsp;
+![Flexibilidade](https://img.shields.io/badge/-Flexibilidade-05122C?style=for-the-badge)&nbsp;
+![Comunicação](https://img.shields.io/badge/-Comunicação-05122C?style=for-the-badge)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+---
+
+### ⚙️ Tech Stack & Tools
+
+#### 🏗️ Core Backend
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=for-the-badge&logo=springboot)&nbsp;
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=for-the-badge&logo=springsecurity)&nbsp;
+![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-05122A?style=for-the-badge&logo=spring)&nbsp;
+
+#### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonaws)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=kubernetes)&nbsp;
+
+#### ⚡ CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=for-the-badge&logo=githubactions)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello&logoColor=ffffff)&nbsp;
-![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion&logoColor=ffffff)&nbsp;
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=for-the-badge&logo=gitlab)&nbsp;
 
+#### 🧪 Testing & Quality
+![JUnit5](https://img.shields.io/badge/-JUnit5-05122A?style=for-the-badge&logo=junit5)&nbsp;
+![Mockito](https://img.shields.io/badge/-Mockito-05122A?style=for-the-badge)&nbsp;
+![Testcontainers](https://img.shields.io/badge/-Testcontainers-05122A?style=for-the-badge)&nbsp;
 
-Well... I'm a technology enthusiast and I believe that only technology will make a more accessible and equitable world for everyone 👨👩👳👦!
-### Top Skills:
-  <br>
-  
+#### 💾 Data & Caching
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-springBoot-05122A?style=for-the-badge&logo=spring)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+#### 🧭 Documentation & Observability
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-05122A?style=for-the-badge&logo=openapiinitiative)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=for-the-badge&logo=swagger)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=for-the-badge&logo=prometheus)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=for-the-badge&logo=grafana)&nbsp;
 
-  <br>
+#### 🧰 Productivity
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello)&nbsp;
 
-<div>
-<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=GiovanaBorges&show_icons=true&theme=radical" />
-<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBorges&hide=html,css,php&layout=compact" />
+---
+
+### 🚀 What I’m Building Towards
+I’m currently focused on:
+- Delivering **cloud-ready backend architectures** using Spring Boot + AWS  
+- Improving **CI/CD pipelines** for automated build, test, and deploy  
+- Applying **clean architecture** and **domain-driven design**  
+- Enhancing **testing strategies** (unit, integration, container-based)  
+- Strengthening **observability** and **API documentation**  
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=GiovanaBorges&show_icons=true&theme=radical" />
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBorges&hide=html,css,php&layout=compact&theme=radical" />
 </div>
 
+---
 
+### 🌍 Connect with me
+<a href="https://www.linkedin.com/in/giovana-franco-borges/" target="_blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="50" width="50" />
+</a>
 
-  <br>
-  
-  
-### Giovana Borges on social media:
+---
 
-<a href="https://www.linkedin.com/in/giovana-franco-borges/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/giovana-franco-borges/" height="50" width="50" color="white" /></a>
-<br>
+> “Code with clarity, deliver with consistency, and build systems that last.”  
+> — *Giovana Borges*
