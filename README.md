@@ -60,12 +60,7 @@ Right now, my focus is on mastering **software quality**, **testing**, and **clo
 - Persistence  
 - Learn to learn  
 
----
 
-### 💼 Portfolio  
-🎯 [https://giovanaborges.netlify.app](https://giovanaborges.netlify.app)
-
----
 
 ### 🚀 Currently focused on
 - Building **cloud-ready backends** with Spring Boot + AWS  
